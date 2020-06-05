@@ -1,0 +1,14 @@
+{
+  "name": "tc-cloud-prices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Dustin Mitchell <dustin@mozilla.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "aws-sdk": "^2.690.0",
+    "chalk": "^4.0.0",
+    "googleapis": "^52.1.0",
+    "taskcluster-client": "^30.0.2"
+  }
+}
